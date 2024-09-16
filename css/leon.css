@@ -203,7 +203,7 @@ body
 .header .linkes ul li a:hover
 {
     padding-left: 25px;
-}
+}https://omar-maher-ahmed.github.io/html-CSS-template-one/
 
 .header .linkes ul li:not(:last-child) a
 {
@@ -457,7 +457,7 @@ body
 .about .about-content .image
 {
     position: relative;
-    width: 360px;
+    width: 270px;
     height: 440;
 }
 
@@ -509,6 +509,14 @@ body
     flex: 1;
     padding-left: 215px;
 
+}
+
+@media (max-width: 991px)
+{
+    .about .about-content .text
+    {
+    padding-left: 0;
+    }
 }
 
 .about .about-content .text p:first-of-type
