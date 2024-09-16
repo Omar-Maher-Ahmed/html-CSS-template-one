@@ -6,6 +6,7 @@
     --section-padding: 60px;
     --section-background: #f6f6f6;
 }
+
 /* End Variable */
 
 /* Start Global Rules */
@@ -426,7 +427,6 @@ body
     margin-bottom: 0;
 }
 
-
 /* End Portfolio */
 
 /* Start About */
@@ -532,8 +532,6 @@ body
 }
 
 /* End About */
-
-
 
 /* Start Contact */
 .contact
